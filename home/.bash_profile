@@ -1,5 +1,5 @@
 if [ -f ~/.bashrc ] ; then
 . ~/.bashrc
 fi
-alias ls='ls -a'
+alias ll='ls -la'
 alias dc='docker-compose'
